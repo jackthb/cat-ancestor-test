@@ -6,7 +6,9 @@ To run this project, you'll need to have [Yarn](https://yarnpkg.com/) installed 
 
 First, run `corepack enable` in the root directory. Then, you can install dependencies with `yarn install`.
 
-To run the backend, run `yarn start:backend`. To run the frontend, run `yarn start:frontend`.
+To run the backend, run `yarn start:backend`. This will start the backend on port 3000.
+
+To run the frontend, run `yarn start:frontend`. This will start the frontend on port 3001.
 
 Alternatively, you can run `yarn dev` to start both the backend and frontend at the same time.
 
