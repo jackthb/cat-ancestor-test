@@ -1,8 +1,6 @@
-import { NextPage } from 'next';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { twMerge } from 'tailwind-merge';
-import { types } from 'util';
 
 interface NextDelivery {
   title: string;
